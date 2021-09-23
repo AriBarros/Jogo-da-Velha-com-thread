@@ -14,9 +14,9 @@ Após instalado o pip, faremos o uso do promt de command (cmd) para instalação
  <a></a> • pip install pygame
 </p>
 
-Após a instalação dos pacotes reinicie o cmd e baixe os arquivos (“server.py”,“client.py”,"grid_multi.py")  no seguinte link do github ()
+Após a instalação dos pacotes reinicie o cmd e baixe os arquivos (“server.py”, “client.py”, "grid_multi.py")  no seguinte link do github (https://github.com/AriBarros/Jogo-da-Velha-com-thread)
 Após baixado os três arquivos, inicie o arquivo “server.py” para abrir o servidor e inicie o arquivo “client.py” para iniciar o cliente. <p>
 
-Com a conexão estabelecida, você terá acesso ao jogo, onde poderá escolher o campo para marcação utilizando X ou O. <p>
+Com a conexão estabelecida você terá acesso ao jogo onde poderá escolher o campo para marcação através do clique esquerdo do mouse no espaço que deseja realizar a inserção do símbolo, sendo este um X ou O. <p>
 
-A ideia do jogo é completar uma fileira que pode ser formada na horizontal, vertical ou até mesmo diagonal do mesmo símbolo. 
+A ideia principal do jogo é completar uma fileira que pode ser formada na horizontal, vertical ou até mesmo diagonal com o mesmo símbolo. 
